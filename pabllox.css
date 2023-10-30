@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+    background-color: rgb(91, 101, 236);
 }
 body{
     background-color: aqua;
@@ -19,4 +20,10 @@ h3{
 p{
     font-size: small;
     font-style: inherit;
+}
+body{
+    background: linear-gradient(rgba(96, 96, 235, 0.473),aqua, skyblue, antiquewhite);
+}
+div{
+    margin-right: 10%;
 }
